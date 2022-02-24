@@ -3,6 +3,11 @@
   "@id" : "https://ValentinDeCraene.github.io/HubertGhommerIIIFManifest/manifests/IIIFmanifestHG.json",
   "@type" : "sc:Manifest",
   "label" : "Registers of Hubert Ghommer, baillif of Lille (1429-1441).",
+  "service": {
+    "profile": "http://iiif.io/api/search/0/search",
+    "@id": "https://dev.gdmrdigital.com/search-api/1245635613/92516776/185d2399d0daadb423f006ae9e895163/search",
+    "@context": "http://iiif.io/api/search/0/context.json"
+},
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Register of Hubert Ghommer, baillif of Lille between 1429 and 1441. This manuscript is the copy made by the Chambre des Comptes of Lille.",
