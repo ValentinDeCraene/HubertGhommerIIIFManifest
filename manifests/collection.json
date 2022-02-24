@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://ValentinDeCraene.github.io/HubertGhommerIIIFManifest/manifests/IIIFHubertGhommerManifestFinal.json",
-    "label" : "Registers of Hubert Ghommer, baillif of Lille (1429-1441)."
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://ValentinDeCraene.github.io/HubertGhommerIIIFManifest/manifests/IIIFmanifestHG.json",
     "label" : "Registers of Hubert Ghommer, baillif of Lille (1429-1441)."
   } ]
